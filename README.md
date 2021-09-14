@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun Mohan Jha
 - I’m interested in Web and Blockchain Developement 
 - I’m currently learning Solidity
-- I’m looking to collaborate on intresting web applictions
+- I’m always looking to collaborate on intresting web Apps
 - How to reach me : Email -> jhavarunmohan@gmail.com
 
 <!---
